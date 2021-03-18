@@ -1,0 +1,1 @@
+print('ame semana tec')
